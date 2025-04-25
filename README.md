@@ -1,6 +1,13 @@
 # WIFI-project-penetration-system
 **highly coordinated, multi-microcontroller Wi-Fi penetration system**
 
+---
+
+1. 🔵 Project 01 : using NRF --> `This Project`
+2. 🟢 Priject 02 : without NRF --> Part 1 (deauther) [link](https://github.com/akashdip2001/Wi-Fi-deauther-with-ESP8266-OLED-module) & Part 2 [fishing website](#)
+
+---
+
 - **ESP8266**: Scanning + Deauth + Control Center  
 - **ESP32 WROOM**: Fake Access Point + Phishing Page + Password Verification  
 - **NRF24L01**: Wireless data bridge between ESP8266 and ESP32  
